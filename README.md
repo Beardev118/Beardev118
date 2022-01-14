@@ -10,7 +10,7 @@
 <div>
   <a href="https://github.com/Kertf22">
 <!--   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Beardev118&&show_icons=true&theme=aura_dark"> -->
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beardev118&layout=compact&theme=aura_dark">
+<!--   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beardev118&layout=compact&theme=aura_dark"> -->
   </a>
 </div> 
 
