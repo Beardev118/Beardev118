@@ -21,11 +21,11 @@
 ![Hardhat](https://img.shields.io/badge/-Hardhat-61DAFB?style=for-the-badge&logo=hardhat)
 ![Truffle](https://img.shields.io/badge/-Truffle-61DAFB?style=for-the-badge&logo=truffle)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Substrate](https://img.shields.io/badge/-Substrate-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Substrate](https://img.shields.io/badge/-Substrate-000000?style=for-the-badge&logo=substrate&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Solana](https://img.shields.io/badge/-Solana-3DDC84?style=for-the-badge&logo=solana&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-blue?style=for-the-badge&logo=go&logoColor=white)
-![Cosmos](https://img.shields.io/badge/-Cosmos-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/-Golang-blue?style=for-the-badge&logo=go&logoColor=white)
+![Cosmos](https://img.shields.io/badge/-Cosmos-000000?style=for-the-badge&logo=cosmos&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/-Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
 
 ### Frontend
